@@ -61965,7 +61965,7 @@ A.Sy.prototype={
 $0(){var s=0,r=A.N(t.H)
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.ia("assets/certifications de formations/1.pdf"),$async$$0)
+return A.S(A.ia("assets/certifications/1.pdf"),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:8}
@@ -61973,7 +61973,7 @@ A.Sz.prototype={
 $0(){var s=0,r=A.N(t.H)
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.ia("assets/certifications de formations/2.pdf"),$async$$0)
+return A.S(A.ia("assets/certifications/2.pdf"),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:8}
@@ -61981,7 +61981,7 @@ A.SA.prototype={
 $0(){var s=0,r=A.N(t.H)
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.ia("assets/certifications de formations/3.pdf"),$async$$0)
+return A.S(A.ia("assets/certifications/3.pdf"),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:8}
@@ -61989,7 +61989,7 @@ A.SB.prototype={
 $0(){var s=0,r=A.N(t.H)
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.ia("assets/certifications de formations/4.pdf"),$async$$0)
+return A.S(A.ia("assets/certifications/4.pdf"),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:8}
@@ -62005,7 +62005,7 @@ A.Su.prototype={
 $0(){var s=0,r=A.N(t.H)
 var $async$$0=A.O(function(a,b){if(a===1)return A.K(b,r)
 while(true)switch(s){case 0:s=2
-return A.S(A.ia("assets/certifications de formations/pix.pdf"),$async$$0)
+return A.S(A.ia("assets/certifications/pix.pdf"),$async$$0)
 case 2:return A.L(null,r)}})
 return A.M($async$$0,r)},
 $S:8}
